@@ -1,0 +1,1222 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="sr">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+        <meta name="google-site-verification" content="74miJdrUwg94wlXsJ6Cylx_YVzhyW6oUjNdqsE1X9aE" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="depopulation">
+    <meta name="description" content="By analyzing the data collected in the period from 2013 to 2020, we tried to contribute to the understanding of the process of depopulation of the working age population of Republic of Serbia.">
+    <meta name="msvalidate.01" content="3BFA3093319F6562C4F8E92DCE927DD8" />
+    <meta name="google" content="notranslate" />
+    <meta name="theme-color" content="#293140">
+    <meta name="msapplication-navbutton-color" content="#293140">
+
+    
+    
+    
+    <meta property="fb:app_id" content="158283022666" />
+
+    <meta property="og:image" content="http://poslovi.infostud.com/img/poslovi-logo-fb-200x200.jpg" />
+<meta property="og:description" content="Tražite posao? Pogledajte otvorena radna mesta za posao na najposećenijem sajtu za zapošljavanje u Srbiji. Započnite vašu karijeru još danas!" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+            
+    <link rel="shortcut icon" href="/img/favicon.ico?v2" />
+
+    <title>Understanding the process of depopulation with the data</title>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link type="text/css" rel="stylesheet" href="/application/cache/1603810487ee203e468a9a975dba724dd8b22079ab.css" media="screen" />
+    <link type="text/css" rel="stylesheet" href="/application/cache/16081137967cd7dfa73b55c5a869fa6abe2bca60ea.css" media="screen" />
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-1993037-2', 'infostud.com');
+        ga('set', 'dimension1', '0');
+        ga('set', 'dimension2', '0');
+        ga('set', 'dimension3', '0');
+
+        
+//uklonjeno i zamenjeno sa GTM-om
+//        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        var global = new Object();
+        dataLayer = [];
+        global.lang_var = "sr";
+        global.csrf_hash = 'ac61d5591669a0315f3be9fb3ada32a0';
+    </script>
+
+    <script type="application/ld+json">
+				{
+					"@context": "http://schema.org",
+					"@type": "Organization",
+					"name": "Poslovi.infostud.com",
+					"description": "Najveća baza slobodnih radnih mesta u Srbiji. Poslovi.infostud.com pouzdan put do željenog posla.",
+					"logo": "https://poslovi.infostud.com/img/ozp/poslovi-infostud-logo.svg",
+					"url": "https://poslovi.infostud.com/poslodavci",
+					"email": "poslovi@infostud.com",
+					"telephone": "024/41-55-615",
+					"sameAs" : [
+						"https://www.facebook.com/poslovi",
+						"https://twitter.com/PosloviInfostud",
+						"https://www.youtube.com/channel/UCoDykSGViuDmOTgcBpgIqwA",
+						"https://www.instagram.com/poslovi_infostud/"
+					]
+				}
+			</script>
+    <script type="application/ld+json">
+				{
+					"@context": "http://schema.org",
+					"@type": "WebSite",
+					"name": "Poslovi.infostud.com",
+					"url": "https://poslovi.infostud.com/",
+					"potentialAction": {
+						"@type": "SearchAction",
+						"target": "https://poslovi.infostud.com/oglasi-za-posao#q={search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				}
+			</script>
+    
+
+        <script type="text/javascript">
+            var infostud_grupa_biscuit_variable = "noData";
+        </script>
+
+    
+            <script type="text/javascript"> 
+            dataLayer.push();
+             //TODO:: prebaciti ovo u lib
+            dataLayer.push({'event':'initialValues', 
+                'dimension1': '0', 
+                'dimension2': '0', 
+                'dimension3': '0'
+                        });
+        </script>
+        
+    
+			<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WQNQR65');</script>
+		<!-- End Google Tag Manager -->
+        <!-- Google Tag Manager - korporativni -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MS3VZ8Z');</script>
+        <!-- End Google Tag Manager -->
+	
+	<style>
+		/* Some kind of Android banner?
+        .aa-banner {
+			top: 0px !important;
+		}
+                #__zone-holder-adoceansimplsjqdfee {
+                    max-width:300px;
+                }*/
+	</style>
+        
+        
+</head>
+<body>
+    
+            <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQNQR65"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <!-- Google Tag Manager (noscript) - korporativn i-->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS3VZ8Z"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        
+
+<script type="text/javascript">
+    global.active_booster_list = [];
+</script>
+
+    
+      
+        
+        
+<div class="nav-wrapper" uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
+    
+    
+    <div class="uk-position-relative">
+        <script type="text/javascript">
+global.uikit3 = true;
+</script>
+
+<nav class="uk-navbar-container nav-container uk-box-shadow-medium" uk-navbar>
+
+    <div class="uk-navbar-left">
+
+    	<a class="uk-navbar-toggle nav-toggle uk-position-absolute" uk-navbar-toggle-icon uk-toggle href="#nav-mobile"></a>
+
+				<a href="/"
+		   onclick="ga('send', 'event', 'header', 'click', 'logo');"
+		   class="uk-navbar-item uk-logo nav-brand">
+			<img class="nav-logo" src="/img/poslovi-infostud-logo.svg" alt="Tražite posao? Poslovi.infostud.com pouzdan put do željenog posla">
+        </a>
+
+		<ul class="uk-navbar-nav nav-items nav__desktop">
+			<li>
+				<a href="#" class="">Poslovi<span uk-icon="triangle-down" class="nav-parent-icon"></span></a>
+				<div class="uk-navbar-dropdown">
+					<ul class="uk-nav uk-navbar-dropdown-nav nav-item-list">
+						<li>
+							<a href="/oglasi-za-posao"
+							onclick="ga('send', 'event', 'header', 'click', 'oglasi-za-posao > pretraga-oglasa');"
+							class="">Pretraga poslova</a>
+						</li>
+						<li>
+						    <a href="/moj-profil/poslovi-na-e-mail"
+						    id="gtm_pnm_stranica_header"
+						    class="">Poslovi na email</a>
+						</li>
+						<li>
+						    <a href="/arhiva-oglasa"
+						    onclick="ga('send', 'event', 'header', 'click', 'oglasi-za-posao > arhiva-oglasa');"
+						    class="">Arhiva poslova</a>
+						</li>
+					</ul>
+				</div>
+			</li>
+	    	<li>
+	    		<a href="/profili-poslodavaca"
+        		   onclick="ga('send', 'event', 'header', 'click', 'upoznajte-poslodavce');"
+        		   class="">Upoznajte poslodavce</a>
+    		</li>
+	    	<li>
+	    		<a href="#"
+	    		   class="">Dok tražite posao<span uk-icon="triangle-down" class="nav-parent-icon"></span>
+	    		</a>
+	    		<div class="uk-navbar-dropdown">
+	    			<ul class="uk-nav uk-navbar-dropdown-nav nav-item-list">
+	    				<li>
+	    					<a href="/saveti"
+	    					onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > saveti');"
+	    					class="">
+	    					    <span>Saveti</span>
+	    					    	    					</a>
+	    				</li>
+	    				<li>
+	    				    <a href="/pravnik-odgovara"
+	    				    onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > pravnik-odgovara');"
+	    				    class="">Pravnik odgovara</a>
+	    				</li>
+	    				<li>
+	    				    <a href="/vesti"
+	    				    onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > vesti');"
+	    				    class="">Vesti o zapošljavanju</a>
+	    				</li>
+	    				<li>
+	    				    <a href="/opisi-zanimanja"
+	    				    onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > opisi-zanimanja');"
+	    				    class="">Opisi zanimanja</a>
+	    				</li>
+	    			</ul>
+	    		</div>
+	    	</li>
+	    	<li><a href="/blog"
+	    	    onclick="ga('send', 'event', 'header', 'click', 'navigacija-blog');">Blog</a>
+	    	</li>
+		</ul>
+    </div>
+
+        <div class="uk-navbar-right">
+
+    	    	        <ul class="uk-navbar-nav nav-items nav__desktop">
+	        <li class="nav-item__no-hover">
+	        	<a href="#" style="">
+	        	   <span class="uk-button uk-button-primary uk-button-small nav-button-primary">Prijavite se<span uk-icon="triangle-down" class="nav-parent-icon "></span></span>
+	        	</a>
+	        	<div class="uk-navbar-dropdown">
+	        		<ul class="uk-nav uk-navbar-dropdown-nav nav-item-list">
+	        			<li>
+	        				<a href="/prijava?redirect=%2Fundp-report" onclick="ga('send', 'event', 'header', 'click', 'prijavite-se-link-kandidat');">Kao kandidat</a>
+	        			</li>
+	        			<li>
+	        			    <a href="https://accounts.hrlab.rs/login" onclick="ga('send', 'event', 'header', 'click', 'prijavite-se-link-poslodavac');">Kao poslodavac</a>
+	        			</li>
+	        		</ul>
+	        	</div>
+	        </li>
+	    </ul>
+        
+                        <div class="uk-navbar-item nav-seperator nav__desktop">
+        	<a href="/poslodavci" onclick="ga('send', 'event', 'header', 'click', 'dugme-poslodavci');" class="uk-button uk-button-default uk-button-small button__outline-light">Za poslodavce</a>
+        </div>
+        <ul class="uk-navbar-nav nav-items nav__desktop">
+            <li>
+                <a href="/poslodavci/formular-za-placeni-oglas" rel="postavite oglas" onclick="ga('send', 'event', 'header', 'click', 'dugme-objavite-oglas');">Objavite oglas</a>
+            </li>
+        </ul>
+        
+                
+                <ul id="__notification_dropdown" class="uk-navbar-nav notification-dropdown-wrapper"><li id="__notification_bell">
+    <div class="__header-main-navigation-section-touch-target">
+        <a id="__notification_bell_toggle" class="__header-main-navigation-toggle notification-bell__toggle uk-display-block" >
+            <span class="notification-bell-icon uk-display-inline-block uk-position-relative uk-border-circle">
+                <i class="la la-bell uk-margin-remove"></i>
+                <span id="__notification_count" class="notification-bell-new uk-border-circle uk-position-absolute" data-count="0" style="display:none;"></span>
+            </span>
+        </a>
+    </div>
+
+        
+            <div id="__notification_list" class="notification-dropdown __header-main-navigation-section-links" style="display: none;">
+                <div class="notification-dropdown__block notification-dropdown__header border__bottom">
+
+    <div class="uk-flex uk-flex-middle">
+        <div class="uk-width-auto">
+            <span class="uk-text-bold">Obaveštenja</span>
+        </div>
+            </div>
+</div>
+
+    <p class="notification-dropdown__block">
+        Učitavam...
+    </p>
+
+            </div>
+        </li></ul>
+    </div>
+</nav>
+
+
+<div id="nav-mobile" class="nav-offcanvas" uk-offcanvas="overlay: true; mode: push">
+	<div class="uk-offcanvas-bar nav-offcanvas-bar uk-padding-remove">
+
+		
+				
+		        <a uk-toggle="target: #nav-poslovi" class="nav-offcanvas-item uk-display-block">
+            Poslovi
+            <span uk-icon="triangle-down" class="nav-parent-icon"></span>
+        </a>
+        <ul id="nav-poslovi" class="nav-offcanvas__submenu uk-margin-remove uk-list" hidden>
+            <li>
+                <a href="/oglasi-za-posao"
+                   onclick="ga('send', 'event', 'header', 'click', 'oglasi-za-posao > pretraga-oglasa');"
+                   class="nav-offcanvas-item uk-display-block ">Pretraga poslova</a>
+            </li>
+            <li>
+                <a href="/moj-profil/poslovi-na-e-mail"
+                   onclick="ga('send', 'event', 'header', 'click', 'oglasi-za-posao > poslovi-na-mail');"
+                   class="nav-offcanvas-item uk-display-block ">Poslovi na email</a>
+            </li>
+            <li>
+                <a href="/arhiva-oglasa"
+                   onclick="ga('send', 'event', 'header', 'click', 'oglasi-za-posao > arhiva-oglasa');"
+                   class="nav-offcanvas-item uk-display-block ">Arhiva poslova</a>
+            </li>
+        </ul>
+
+    	        <a href="/profili-poslodavaca"
+           onclick="ga('send', 'event', 'header', 'click', 'upoznajte-poslodavce');"
+           class="nav-offcanvas-item uk-display-block ">
+            Upoznajte poslodavce
+        </a>
+
+    	        <a uk-toggle="target: #nav-dtp" class="nav-offcanvas-item uk-display-block">
+            Dok tražite posao
+            <span uk-icon="triangle-down" class="nav-parent-icon"></span>
+        </a>
+        <ul id="nav-dtp" class="nav-offcanvas__submenu uk-margin-remove uk-list" hidden>
+            <li>
+                <a href="/saveti"
+                   onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > saveti');"
+                   class="nav-offcanvas-item uk-display-block ">
+                    Saveti
+					                </a>
+            </li>
+            <li>
+                <a href="/pravnik-odgovara"
+                   onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > pravnik-odgovara');"
+                   class="nav-offcanvas-item uk-display-block ">Pravnik odgovara</a>
+            </li>
+            <li>
+                <a href="/vesti"
+                   onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > vesti');"
+                   class="nav-offcanvas-item uk-display-block ">Vesti o zapošljavanju</a>
+            </li>
+            <li>
+                <a href="/opisi-zanimanja"
+                   onclick="ga('send', 'event', 'header', 'click', 'dok-trazite-posao > opisi-zanimanja');"
+                   class="nav-offcanvas-item uk-display-block ">Opisi zanimanja</a>
+            </li>
+        </ul>
+
+	            <a href="/blog"
+           onclick="ga('send', 'event', 'header', 'click', 'navigacija-blog');"
+           class="nav-offcanvas-item uk-display-block">
+            Blog
+        </a>
+
+	            <a uk-toggle="target: #nav-prijava" class="nav-offcanvas-item uk-display-block">
+            <span class="uk-button uk-button-small uk-button-primary nav-button-primary">
+                Prijavite se
+                <span uk-icon="triangle-down" class="nav-parent-icon"></span>
+            </span>
+        </a>
+        <ul id="nav-prijava" class="nav-offcanvas__submenu uk-margin-remove uk-list" hidden>
+            <li>
+                <a href="/prijava?redirect=%2Fundp-report" onclick="ga('send', 'event', 'header', 'click', 'prijavite-se-link-kandidat');" class="nav-offcanvas-item uk-display-block">Kao kandidat</a>
+            </li>
+            <li>
+                <a href="https://accounts.hrlab.rs/login" onclick="ga('send', 'event', 'header', 'click', 'prijavite-se-link-poslodavac');" class="nav-offcanvas-item uk-display-block">Kao poslodavac</a>
+            </li>
+        </ul>
+    	
+    	    	<ul class="uk-nav">
+    		<li class="uk-nav-header nav-offcanvas__header">Za poslodavce:</li>
+    		<li>
+    		    <a href="/poslodavci"
+    		    onclick="ga('send', 'event', 'header', 'click', 'dugme-poslodavci');"
+    		    class="nav-offcanvas-item">Odeljak za poslodavce</a>
+    		</li>
+    		<li>
+    		    <a href="/poslodavci/formular-za-placeni-oglas" rel="postavite oglas" onclick="ga('send', 'event', 'header', 'click', 'dugme-objavite-oglas');"
+    		    class="nav-offcanvas-item">Objavite oglas za posao</a>
+    		</li>
+    	</ul>
+    		</div>
+</div>        <div id="__notification_floater_container"></div>
+    </div>
+</div>
+
+<link type="text/css" rel="stylesheet" href="/application/cache/1608125960d1ec6853ca85ab9884d92ad72687259f.css" media="screen" />
+
+<script>
+    global.is_mobile = false;
+</script>
+
+    
+    
+            <div class="uk-section uk-section-small">
+    <div class="uk-container">
+
+        <div class="uk-card uk-card-default uk-card-body">
+            <h1 class="uk-h2 uk-text-center@s uk-text-bold uk-margin-medium-bottom">
+                Understanding the process of depopulation with the data
+            </h1>
+
+            <ul uk-accordion="multiple: true">
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">About the project</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+
+                        <div class="uk-flex uk-flex-middle uk-flex-around uk-margin-medium-bottom">
+                            <div class="undp-logo">
+                                <img src="/public/img/undp-izvestaj/undp-logo.svg" alt="Program Ujedinjenih nacija za razvoj" class="undp-logo__undp">
+                            </div>
+                            <div class="undp-logo">
+                                <img src="/public/img/undp-izvestaj/unfpa-logo.svg" alt="Populacioni fond">
+                            </div>
+                            <div class="undp-logo">
+                                <img src="/public/img/undp-izvestaj/infostud-grupa-logo.svg" alt="Infostud grupa">
+                            </div>
+                        </div>
+                        <p>The <i>Infostud group</i> has been following the analytics and trends in advertising on the <i>Poslovi.infostud.com</i> and <i>NajStudent.com</i> websites for many years. By analyzing the data collected in the period from 2013 to 2020, we tried to contribute to the understanding of the process of depopulation of the working age population of Republic of Serbia. Below, you can read the results of the project made within the UNDP/UNFPA competition "Better understanding of the depopulation process through data", in which the InfostudData team’s project was declared as one of the winners.</p>
+                        <p>Our focus was based on advertisements for job postings abroad. We analyzed the candidates’ interest in reviewing and applying for foreign job advertisements through our portal. In the process of data analysis, we first handled the exploratory data analysis (EDA), and then linear regression (ML) and basic analysis of abroad job postings’ texts. In addition to the analysis of data from the <i>Poslovi.infostud.com</i> portal, the exploratory analysis (EDA) was also performed on data from the <i>NajStudent.com</i> database, as a relevant representative of the younger part of the educated population.</p>
+                        <p>In order to validate the obtained results, we also analyzed data available from other sources. The first validation is related to the internal database, which contains data collected through a special survey on the site <i>Poslovi.infostud.com</i> (hereinafter TK database), within which the candidates have been declaring for many years whether they want to continue their life abroad. The second validation is the analysis of data from the 2011 census, which was conducted by the Republic Statistical Office.</p>
+                        <p>Before you read the report in detail, it is important to note that all the conclusions we have reached reflect the intention of a certain part of the population to continue living abroad. As we do not know who did get a job abroad, we cannot say with certainty that applying for jobs abroad represents guaranteed emigration. Although the data we obtained depict a clear intention of the mentioned population to find a job in one of the foreign countries, we would like distance ourselves from the conclusions related to the process of leaving the country. The results obtained in this research serve exclusively for research purposes, as a supplement to clarifying the problem that is the subject of the research.
+                        </p>
+                        <p>Also, we will subsequently supplement this page with the results of the survey, which we will conduct on the website <i>Poslovi.infostud.com</i> and<i> Najstudent.com</i>. Our goal is to question our visitors about their intention and motivation to go abroad. In order for you to participate in this research, click on "fill in the survey" at the bottom of the page, and anonymously answer the short questions in a few minutes. The results of this research will be posted on the site during the first quarter of 2021.</p>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Exploratory Data Analysis (EDA) - Poslovi.infostud.com</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p>Exploratory Data Analysis involves the analysis of data sets in order to gain insight into the main characteristics of these sets (i.e. distribution of numerical variables, detection of extreme values, etc.). Below, you can see exploratory analyses of some of the variables we analyzed.</p>
+                        <p>Note (valid for all analyses): data for 2020 refer only to the first half of the year.</p>
+                        
+                        <p class="uk-margin-small-bottom"><strong>Offer: ads for jobs abroad throughout the years</strong></p>
+                        <p class="uk-margin-remove">Over the years, there has been a continuous increase in ads published for jobs abroad, and the largest number of them were published in 2018 and 2019. During 2020, there is a noticeable decline, probably as a consequence of the world facing a global economic slowdown due to the COVID-19 pandemic.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/poslovi-eda-grafik-broj-poslova-za-inostranstvo-kroz-godine.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of ads (sum) for jobs abroad, by years">
+                                                                <figcaption class="uk-text-muted uk-text-center">Graph: number of ads (sum) for jobs abroad, by years</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Offer: which categories are ads for jobs abroad from</strong></p>
+                        <p class="uk-margin-remove">The job category implies the field of work which includes several related job positions. For the purposes of this research, we have selected 10 areas of work that are most frequently advertised on our portal. We are noticing that the largest number of ads was in the field of mechanical engineering, construction and IT. Electrical engineering, catering, food preparation, healthcare and transport also stand out.
+                        </p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_PO_PRVI_BrojOglasaPoKategorijamaPoslova.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of ads (sum) by job categories, from 2013 to 2020">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of ads (sum) by job categories, from 2013 to 2020</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Offer: which job positions are most often found in job ads abroad</strong></p>
+                        <p class="uk-margin-remove">When we look at individual work positions, the greatest demand was for drivers and cooks. This is followed by civil engineers, waiters, mechanical engineers, electricians, doctors and nurses.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_PO_DRUGI_BrojOglasaPoRadnimPozicijamaIno.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of ads (sum) by job positions abroad, from 2013 to 2020">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of ads (sum) by job positions abroad, from 2013 to 2020
+                                </figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Demand: candidates' interest in jobs abroad</strong></p>
+                        <p class="uk-margin-remove">In the context of applying for job opportunities abroad, we see an increase in the number of applications from 2013 to 2019, with slight declines in 2017 and 2019 compared to the years preceding them. This behavior of users is in line with the trend of abroad job offers on our website - in both cases there was an increase from 2013 to 2019. It is also important to note that the noticeable decline in the number of applications, which we are seeing for 2020, is probably a consequence of the current pandemic.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/poslovi-eda-grafik-interesovanje-kandidata-za-poslovima-u-inostranstvu.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of applications (sum) for ads abroad, by years">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of applications (sum) for ads abroad, by years</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Demand: areas of work for which the candidates applied</strong></p>
+                        <p class="uk-margin-remove">Most of the applications for abroad job ads were in the field of technical sciences, trade and services, as well as tourism and catering, namely economy.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_PO_TRECI_BrojKonkurisanjaNaOglaseZaIno.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of applications (sum) for ads abroad (from 2013 to 2020), by categories">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of applications (sum) for ads abroad (from 2013 to 2020), by categories</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Offer: countries from which most of the abroad job ads come from</strong></p>
+                        <p class="uk-margin-remove">Based on the graph below, we can conclude which are the foreign countries with the majority of job offers.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_PO_CETVRTI_BrojOglasaZaPozicijeUIno.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of ads (sum) for positions abroad (from 2013 to 2020), by country">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of ads (sum) for positions abroad (from 2013 to 2020), by country</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Demand: for which foreign countries do candidates apply the most</strong></p>
+                        <p class="uk-margin-remove">Based on the graph below, we can conclude that the largest number of candidates apply for positions in Germany, followed by the countries in our region, as in the case of graphs illustrating the offer.</p>
+                        <div class="uk-text-center">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_PO_PETI_BrojKonkurisanjaNaPozicijeUIno.png"
+                                         data-width
+                                         data-height
+                                         alt="Broj konkurisanja na pozicije u inostranstvu, po državama">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of applications (sum) for positions abroad (from 2013 to 2020), by country</figcaption>
+                            </figure>
+                        </div>
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>You can view a detailed exploration data analysis (EDA) on the external page. <a href="https://undp-izazov.infostud.biz/" target="_blank">See more details.</a>.</p>
+                        </div>
+                    </div>
+                </li>
+
+
+                <li>
+                    <a class="uk-accordion-title" href="#">Exploratory Data Analysis (EDA) - NajStudent.com</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p>This report presents an analysis of data from the <i>NajStudent.com</i> database, which for the purposes of the research are linked to certain data collected within the same site through <i>Google Analytics</i>. The data on which the exploration data analysis (EDA) was performed is data on scholarships advertised on our portal from the beginning of 2013 to the middle of 2020.</p>
+
+                        <p class="uk-margin-small-bottom"><strong>Offer: ads for scholarships abroad by year</strong></p>
+                        <p class="uk-margin-remove">The largest number of scholarships on the site was announced in 2013 and 2014, as well as in 2019. During 2020, there was a decline in available scholarships abroad (2 and a half times less than in 2019), which is expected given the situation related to COVID-19 and all the restrictions that exist on the issue of staying abroad. Most countries have "closed" borders, making it very difficult to obtain student visas. Furthermore, one of the potential explanations for the decline in the number of ads for foreign scholarships in the period from 2015 to 2018 is the change of the business plan of the site <i>NajStudenta.com</i>, which in that period shifted the focus to the domestic market (namely scholarships and internships within the Republic Serbia).</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/najstudent-eda-oglasi-za-stipendije-po-godinama.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: number of ads (sum) for scholarships, by years">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: number of ads (sum) for scholarships, by years</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Demand: students' interest in scholarships abroad</strong></p>
+                        <p class="uk-margin-remove">The trend in the graph below suggests that most of the time spent on the pages of ads for foreign scholarships was during 2014 and 2019, and the least time spent was during 2015 and 2018. This result is relatively in line with the offer of ads in those years.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_NS_SESTI_ProsecnoVremeKojeKorisniciProvodeNaStr.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: average time (sum) that users spend on a page (in seconds), by years">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: average time (sum) that users spend on a page (in seconds), by years</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-remove">Over the years, there has been a decline in unique views of pages of advertised scholarships for studying abroad. One of the assumptions explaining such behavior might be that students are often turning to official websites of foreign Universities in search of further information about scholarships. Throughout the years, students were more often directed to external pages of original ads and application forms, outside the <i>Najstudent.com</i> website, to finish the application process and find out more detailed information. Accordingly, the user does not need to stay on the site more than once.</p>
+
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/najstudent-eda-grafik-broj-jedinstvenih-pregleda-stranice-kroz-godine.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: Yearly total unique pageviews (sum)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: Yearly total unique pageviews (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Top countries offering scholarships for Serbian students</strong></p>
+                        <p class="uk-margin-remove">The graph below shows which countries offer scholarships to Serbian students, most often. The United Kingdom is in the first place. This is not a surprise, considering the UK has a lot of funds offering scholarships for non-EU citizens (e.g. The British Scholarship Trust, Chevening Scholarship, Ivan D Jankovic Studentship, etc.). A similar interpretation of the results is in the case of the second-ranked country - Germany, from which come very well-known funds with scholarships for all levels of study (e.g. DAAD Scholarship, BAYHOST Scholarship, etc.). Italy ranks third, as one of the countries that provide a lot of scholarships for certain faculties, which have been very popular among students from Serbia for years (e.g. Bocconi University, Polytechnic University, etc.).</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_NS_SEDAM_BrojOglasaZaStipendije.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: total scholarship ads per admission country, from 2013 to 2020">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: total scholarship ads per admission country, from 2013 to 2020</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>From which areas of study are scholarships for studying abroad the most common?</strong></p>
+                        <p class="uk-margin-remove">The largest number of scholarships was offered in the field of social sciences (N = 564). This is followed by natural sciences (N = 345), technical sciences (N = 206), humanities (N = 111), art (N = 84), medical sciences (N = 40), biotechnical sciences (N = 25) and finally sport and physical culture (N = 7). The result, which suggests that the greatest demand for the social sciences may be since economics, law, and similar fields of social sciences are some of the most sought after among students in Serbia. Accordingly, students from these areas go on to further education and specialization abroad. In the case of second-ranked natural sciences, for years a large number of students in the field of mathematics have been leaving Serbia and going to Great Britain for further education with the help of prestigious scholarships. Furthermore, the global demand for IT candidates, and thus schools in these fields, has brought technical sciences to third place among the most sought-after fields for study abroad. However, why didn't such a popular discipline end up in the first place? It is assumed that the reason is that in Serbia there are many quality faculties, which educate experts in this field, at all three levels of study (BSc, MSc, Ph.D.).</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_NS_OSAM_BrojOglasaZaStipendije.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: total scholarship ads per field of study, from 2013 to 2020">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: total scholarship ads per field of study, from 2013 to 2020</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Disciplines for studies abroad</strong></p>
+                        <p class="uk-margin-remove">The highest-ranked discipline is economics, and it is assumed that this is due to MBA programs, which do not exist in our country in the format in which they exist abroad, and these studies are very popular among our students. MBA programs are most commonly attended in the UK and USA, which further suggests that this is one of the reasons why the UK is also the most popular among the countries that give scholarships to our students. Furthermore, ERASMUS + and similar exchange programs collaborate with UCL and other prestigious UK colleges, which further facilitates obtaining scholarships for this country. In second place are the biological sciences, which as a study program are not popular in our country, but that is why they are in Germany and the UK. It is assumed that this is the reason why Serbian students want to study in the field of biology in those countries. As expected, IT stood out in the high third place as an academic discipline, which is not surprising considering that specific IT areas, such as AI, are quite developed abroad, especially in UK, Germany, Italy, and the USA.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/EDA_NS_DEVET_BrojOglasaZaStipendije.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: total scholarship ads per field of study (2013. - 2020.)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: total scholarship ads per field of study (2013. - 2020.)</figcaption>
+                            </figure>
+                        </div>
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>You can view a detailed exploration data analysis (EDA) on the external page. <a href="https://undp-izazov.infostud.biz/" target="_blank">See more details.</a>.</p>
+                        </div>
+                    </div>
+                </li>
+
+
+                <li>
+                    <a class="uk-accordion-title" href="#">Linear regression (machine learning) - Poslovi.infostud.com</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p>Linear regression was used in this research to gain insight into the existence of a certain pattern of behavior among users - does a larger number of pageviews of job postings for working abroad necessarily bring a larger number of candidates applying for them? Based on the results of linear regression (height of the coefficient of determination), it can be concluded that this is the case in almost all areas of work and for all years. One of the exceptions is IT, the results of which are shown below.</p>
+                        <div uk-grid class="uk-grid-collapse uk-child-width-1-2@m uk-margin-medium-bottom">
+                            <div class="uk-text-center">
+                                <figure class="uk-margin-remove">
+									                                        <img uk-img
+                                             data-src="/public/img/undp-izvestaj/grafikoni/masinsko-ucenje-poslovi-infostud-grafik-it-linearna-regresija.png"
+                                             data-width
+                                             data-height
+                                             alt="Graph (scatter plot): display of relationships between variables from linear regression analysis, IT job postings">
+										                                    <figcaption class="uk-text-muted uk-text-center">Graph (scatter plot): display of relationships between variables from linear regression analysis, IT job postings</figcaption>
+                                </figure>
+                            </div>
+                            <div class="uk-text-center">
+                                <figure class="uk-margin-remove">
+									                                        <img uk-img
+                                             data-src="/public/img/undp-izvestaj/grafikoni/masinsko-ucenje-poslovi-infostud-grafik-it-modifikovana-regresija.png"
+                                             data-width
+                                             data-height
+                                             alt="Graph (scatter plot): display of relationships between variables from modified linear regression analysis (Median / Rounded), IT job postings">
+										                                    <figcaption class="uk-text-muted uk-text-center">Graph (scatter plot): display of relationships between variables from modified linear regression analysis (Median / Rounded), IT job postings</figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <p>Based on the scatter plot (shown left), we can conclude that there is a tendency for a larger number of job posting views (x-axis) to predict a higher number of applicants (y-axis) in the case of ads categorized as IT. However, this relationship (coefficient of determination = 0.08) is not close (the coefficient is low), which indicates that the relation is not clearly defined (a lot of (nonrelated) data points on the scatter plot). Furthermore, based on the graphs on the right, we can conclude that in the case of modified regression (median/grouping) this relationship is somewhat stronger (the coefficient of determination is higher), it is in the same positive direction as with standard linear regression - an increase in values of one variable suggests an increase in value on the other. Still, this relationship is again weak (the coefficient of determination is low = 0.27).</p>
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>Detailed overview of all regression analysis for years and areas of work are <a href="https://undp-izazov.infostud.biz/" target="_blank">available here</a>.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Text analysis - Poslovi.infostud.com</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p>Within this section, we have dealt in more detail with the content of job postings within different categories (areas of work). In the graph below, you can see what the frequency graph of the words most often mentioned in IT job postings for positions abroad looks like. Also, in the tables below the graphs, you can see which technologies are most often extracted from the text of our job postings, which countries and which operating systems. All this information provides a broader picture of which profile of IT experts is the most sought after among the advertised positions.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/analiza-teksta-it-frekvencijski-grafik.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: frequent phrases in IT job postings">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: frequent phrases in IT job postings</figcaption>
+                            </figure>
+                        </div>
+                        <div uk-grid>
+                            <div class="uk-width-1-3@m uk-width-1-2@s">
+                                <table class="uk-table uk-table-small uk-table-divider">
+                                    <thead>
+                                    <tr>
+                                        <th>Technologies</th>
+                                        <th>Frequencies</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>C</td>
+                                        <td>31</td>
+                                    </tr>
+                                    <tr>
+                                        <td>SAP</td>
+                                        <td>27</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Java</td>
+                                        <td>19</td>
+                                    </tr>
+                                    <tr>
+                                        <td>PHP</td>
+                                        <td>17</td>
+                                    </tr>
+                                    <tr>
+                                        <td>CSS</td>
+                                        <td>17</td>
+                                    </tr>
+                                    <tr>
+                                        <td>JavaScript</td>
+                                        <td>17</td>
+                                    </tr>
+                                    <tr>
+                                        <td>MySQL</td>
+                                        <td>9</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Phyton</td>
+                                        <td>9</td>
+                                    </tr>
+                                    <tr>
+                                        <td>HTML5</td>
+                                        <td>8</td>
+                                    </tr>
+                                    <tr>
+                                        <td>NET</td>
+                                        <td>8</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="uk-width-1-3@m uk-width-1-2@s">
+                                <table class="uk-table uk-table-small uk-table-divider">
+                                    <thead>
+                                        <tr>
+                                            <th>Cities/Countries</th>
+                                            <th>Frequencies</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Belgrade</td>
+                                            <td>12</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Bulgaria</td>
+                                            <td>11</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ljubljana</td>
+                                            <td>10</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Zagreb</td>
+                                            <td>9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Austrija</td>
+                                            <td>7</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="uk-width-1-3@m">
+                                <table class="uk-table uk-table-small uk-table-divider">
+                                    <thead>
+                                        <tr>
+                                            <th>OS</th>
+                                            <th>Frequencies</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>iOS</td>
+                                            <td>11</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Windows</td>
+                                            <td>9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Linux</td>
+                                            <td>7</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>Detailed review of text analysis of job postings from other areas of work are <a href="/public/docs/undp-izvestaj/PDF-1-ANALIZA-TEKSTA.pdf" target="_blank">available here</a>.</p>
+                        </div>
+
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Validation</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p class="uk-margin-small-bottom"><strong>Analysis of responses from the TK database</strong></p>
+                        <p class="uk-margin-remove">The number of candidates who have chosen some foreign country as the place they want to continue their lives is smaller as years pass. The decline of the desire to work and live abroad is happening continuously from 2015 till 2020. It is interesting to see that in 2015 and 2016 the gender structure is noticeably different - much bigger is the interest of the male population to go abroad. However, over the years, gender differences have significantly decreased, and during 2019 and 2020, we have almost equal number of men and women who are interested in the category "abroad". There are a few interpretations of these results. One of them is that a greater number of people have already left Serbia in the past decades, and the number of those who are still here and have intentions to go abroad are much smaller. This interpretation goes in line with the results that we obtained from the analyses the data about the job and scholarship offers, as well as the results that we received as part of the validation according to the population census data in 2011, that was carried out by the Republic Institute of Statistics. The other, more optimistic interpretation of the results refers to the situation, where during the years, the interest to go abroad declined, and people are more likely to stay working and living in Serbia, because they see the working conditions to be better here.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-iskazana-zelja-za-odlazak-u-inostranstvo-kroz-godine-po-polu.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: expressed interest of going abroad (sum), by years and gender">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: expressed interest of going abroad (sum), by years and gender</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-remove">When we take in consideration the education level, the biggest number of candidates that marked abroad in the internal survey have higher education level (master degree). After that, there are the candidates with secondary school qualification, high school or bachelor degree. These insights are relatively in a line with the results about what jobs are the most frequently offered by the employers (i.e. engineers, doctors...) - exactly the jobs that require higher levels of education. Furthermore, the result that suggests that there is a big number of candidates that only have secondary school education are also in correlation with the result we obtained from the analysis of the most searched job positions. As we saw from the data from the database, there is a great demand for drivers, electricians, construction workers, mechanics and similar jobs, jobs that need mostly secondary school level of education.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-strucna-sprema-kandidata-zainteresovanih-za-inostranstvo.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: education level of candidates interested in working abroad (sum)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: education level of candidates interested in working abroad (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-remove">The largest number of candidates that showed interest in working aborad are between the age of 25 and 40, which represents the work capable population with working experiences. In line with this result there is also the result of the passus before this, that suggests that the biggest number of candidates are with higher level of education (master degree). It is almost the same number of those who are younger then 25, and those between 41 and 50, which shows that beside the candidates that already have work experience, the young people (i.e. students, pupils) also want to leave Serbia, but also people who are middle aged.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-starosna-struktura-kandidata-zainteresovanih-za-inostranstvo.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: the age sructure of the canidates interested in working abroad (sum)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: the age sructure of the canidates interested in working abroad (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-remove">The largest number of candidates who are interested in working abroad are from economy and management categories, which correlates with the results of the analysis of the job ads on <i>Poslovi.infostud.com</i> and <i>Najstudent.com</i>. Furthermore, as in case of the of the active workforce population, and the population of students, the economy is the category that is most frequent is job searches as well as in work offers. After that comes mechanical sciences, IT, electrics (jobs that require specific education) and construction and transport positions (jobs that usually require secondary school level of education).</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-oblasti-rada-kandidata-zainteresovanih-za-inostranstvo.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: areas of work of candidates interested in working abroad (sum)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: areas of work of candidates interested in working abroad (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <p class="uk-margin-remove">The largest number of candidates who marked that they are interested in working abroad have more then 10 years of work experience, which completely correlates with all the conclusions of earlier analysis.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+								                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-radno-iskustvo-kandidata-koji-zele-da-rade-u-inostranstvu.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: work experience of the candidates that want to work abroad (sum)">
+									                                <figcaption class="uk-text-muted uk-text-center">Graph: work experience of the candidates that want to work abroad (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>If you are interested in seeing the whole report about the results of the analysis of the internal TK database of <i>Poslovi.infostud.com</i>, you can <a href="/public/docs/undp-izvestaj/PDF-2-TK-BAZA.pdf" target="_blank">download it here</a>.</p>
+                        </div>
+
+                        <p class="uk-margin-small-bottom"><strong>Data from the 2011 census (Republic Institute for Statistics)</strong></p>
+                        <p class="uk-margin-remove-top">According to the number of the citizens who are working (staying) abroad, using the data of the Republic Institution for Statistics, we see greater number of people from Serbia. One census, that from 1991 is an exemption, when we have 0,03% less people then in 1981. The thing that draws attention is the census from 2002 census, when we notice a great increase od emigrants from Republic of Serbia. It is an assumption that this big increase can be linked to mainly political atrocities that were present in Republic of Serbia in the period between 1991 and 1995, as well as in 1999. Having all this in mind, this pick in the number of emigrants from Serbia that was registered in 2002, is considered as exceptional case per se.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+                                                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/validacija-grafik-broj-lica-iz-rs-koji-rade-borave-u-inostranstvu.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: the number of people (sum) from Republic of Serbia who work/stay abroad">
+                                                                    <figcaption class="uk-text-muted uk-text-center">Graph: the number of people (sum) from Republic of Serbia who work/stay abroad</figcaption>
+                            </figure>
+                        </div>
+                        <p class="uk-margin-remove">Which are the countries that Serbian citizens most likely to stay/work? According to the 2011 census data, we can draw the conclusion that the most popular are Austria, Germany, Swiss, after which comes Italy, France and the USA. The detailed data is shown in the graph beneath. It is important to notice, that the data analysis is only partially in line with the analysis form the data we have collected from our database. One of the possible reasons for this could be that our web portal is specialized for job ads from Serbia, so it is possibly more popular among employers from the region, which explains why are the countries from the region higher ranked in our analysis, while in the census from 2002 are at the bottom of the list. Also, there is a number of the job offers from abroad that are offered by specialized agencies or in some other ways.</p>
+                        <div class="uk-text-center uk-margin-medium-bottom">
+                            <figure class="uk-margin-remove">
+                                                                    <img uk-img
+                                         data-src="/public/img/undp-izvestaj/grafikoni/RZS_DESET_ZemljeUKojeNajcesceOdlaze.png"
+                                         data-width
+                                         data-height
+                                         alt="Graph: countries that people from Republic of Serbia most likely go work/stay (sum)">
+                                                                    <figcaption class="uk-text-muted uk-text-center uk-margin-small-top">Graph: countries that people from Republic of Serbia most likely go work/stay (sum)</figcaption>
+                            </figure>
+                        </div>
+
+                        <p>Note: During the validation process (Republic Institute for Statistics), we have to have in mind the difference in the methodology that was used to count the emigrants in the analyzed period. The difference in the methodology of the census undoubtedly effects the comparison between the results of the same censuses, but also on the general characteristics of the census itself, so the number of emigrant population is in a way underestimated, in other words our citizens working/staying abroad.</p>
+
+                        <div class="uk-alert-primary" uk-alert>
+                            <p>If you want to see the whole report about the results of data analysis from census of Republic Institute for Statistics, you can <a href="/public/docs/undp-izvestaj/PDF-3-RZS.pdf" target="_blank">download it here</a>.</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Conclusions</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p class="uk-margin-small-bottom"><strong>Poslovi.infostud.com</strong></p>
+                        <ul class="uk-list uk-list-bullet">
+                            <li>Over the years, there has been a continuous growth of published ads for jobs abroad, and the largest number of them were published in 2018 and 2019, respectively. During 2020 there is a slowdown, probably as the consequence of the world facing a global economic slowdown due to the COVID-19 pandemic. </li>
+                            <li>The largest number of the analyzed job ads were in the field of mechanical engineering, construction and IT. Electrical engineering, catering, healthcare and transport also stand out.</li>
+                            <li>ost of the competitions for advertisements for jobs abroad were in the field of technical sciences, trade and services, as well as tourism and catering, economy. When we look at individual work positions, the greatest demand was for drivers and cooks. This is followed by civil engineers, waiters, mechanical engineers, electricians, doctors, and nurses.</li>
+                            <li>The results of the text mining from the IT ads suggest that the following technologies are most often mentioned, listed in order by number of mentions: C, SAP, JAVA, PHP, CSS and JavaScript. In the field of economics, it is obvious that there are mostly terms related with the managerial positions. The following terms were most often mentioned in advertisements for this branch: Project, MS, Management, Business, Communication and Manager. In the category of technical positions, the advertisements mostly mention words related to construction (i.e. installation, construction, electronics) or transport. In the field of services and production -- operators, hairdressers and drivers are most often sought, and in tourism -- waiters and cooks.</li>
+                            <li>Candidates' interest in jobs abroad, as measured by the number of applications for advertisements published in foreign countries, grew in parallel with the growth in the number of published advertisements for jobs published. This growth has been constant since the beginning of the measurement covered by this research – i.e. since 2013, with slight slowdowns during 2017 and 2019. We record a drastic slowdown in 2020, as the consequence of the world facing a global economic slowdown due to the COVID-19 pandemic.</li>
+                            <li>Offers for jobs abroad since 2013 most often came from Germany, followed by countries from the region – Montenegro, Croatia, and Slovenia (mostly seasonal jobs). If we take into consideration the number of candidate applications, the order is similar, with a slightly lower interest in relation to the job offers in Croatia (5th place) and slightly higher for work in Russia (4th place).</li>
+                            <li>In the internal database of the site jobs board Infostud, it is recorded that the largest number of those who expressed a desire to go abroad are highly educated (graduated from college or master's degree), while in second place are people with completed high school. As for the years, by far the greatest interest is shown by those in the age 25 to 40, while the number of those above or below this range is significantly smaller. The people most eager for new opportunities abroad are those with over 10 years of experience, mostly economists and managers, mechanics, electrical technicians and IT experts.</li>
+                        </ul>
+
+                        <p class="uk-margin-small-bottom"><strong>NajStudent.com</strong></p>
+                        <ul class="uk-list uk-list-bullet">
+                            <li>With the reference to the offers of scholarships, the United Kingdom is in the lead country, followed by Germany and Italy. This result is not unexpected when we take into account the fact that the first two countries have several funds and scholarships that allow our students to continue their studies abroad. Also, there is a fact that certain faculties in Italy have become well-known places for students from Serbia.</li>
+                            <li>The largest number of scholarships was offered in the field of social sciences (564). This is followed by natural sciences (345), technical sciences (206), humanities (111) and art (84). The result that suggests that the social sciences is the most popular field may be due to the fact that economics, law, and similar fields of social sciences, are some of the most popular among students in Serbia.</li>
+                            <li>The highest ranked discipline is economics, and it is assumed that this is due to MBA programs, which do not exist in our country in the format in which they exist abroad. MBA programs are most commonly attended in the UK and USA, which further suggests that this is one of the reasons why the UK is also the most popular among the countries that give scholarships to our students.</li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Fill in the survey</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p class="uk-margin-top-remove">If you want to participate in our survey, you can fill in the survey by clicking on "Fill in the survey". Thank you for contributing to a better understanding of the problem of depopulation of the population of the Republic of Serbia.</p>
+						                        <div class="uk-padding border__all uk-border-rounded uk-background-muted">
+                            <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                <div class="uk-width-expand">
+                                    <p class="uk-h4 uk-margin-small-bottom"><strong>Help us with this research!</strong></p>
+                                    <p class="uk-margin-remove-top">Answer short questions anonymously and contribute to our research.</p>
+                                </div>
+                                <div class="uk-width-auto@s">
+                                    <a href="https://survey.alchemer.com/s3/6050903/UNDP-Infostud-upitnik" class="uk-button uk-button-primary uk-width-expand uk-width-auto@s">Fill in the survey</a>
+                                </div>
+                            </div>
+                        </div>
+						                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Download the report</a>
+                    <div class="uk-accordion-content uk-margin-medium-bottom">
+                        <p>For Researchers and Data Scientists who want to supplement our analysis with their own results, we have opened data sets on our <i>GitHub</i> repository. The higher goal is to have the opportunity to reach a more comprehensive understanding of the depopulation process in Serbia, based on data from the <i>Infostud group</i>.
+                        </p>
+                        <div uk-margin>
+                            <a href="https://undp-izazov.infostud.biz/" class="uk-button uk-button-default uk-width-expand uk-width-auto@s"> view the full report</a>
+                            <a href="https://github.com/IsidoraGataric/infostud_undp_unfpa_project" class="uk-button uk-button-default uk-width-expand uk-width-auto@s"><i class="lab la-github"></i> view it on github</a>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">The project construction support</a>
+                    <div class="uk-accordion-content">
+                        <p>This page was developed with the support of the United Nations Development Program (UNDP) and the UN Population Fund (UNFPA) in Serbia, as part of the challenge "Data to better understand the depopulation process". The content of the site is responsibility of <i>Infostud 3 d.o.o.</i> companies, and it does not necessarily reflect the views of UNDP or UNFPA.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>    
+    
+
+<script type="text/javascript" src="/application/cache/160811763618a352135f75c6989ce5a4e23f6698c6.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/application/cache/1603810601b31191fec3d0b6773cf82495cbd6cf47.js" charset="UTF-8"></script>
+
+    <div id="__footer" class="s-footer">
+
+        <!-- Poslovi -->
+        <div class="s-footer-poslovi">
+            <div class="s-footer-poslovi-maxwidth">
+
+                <!-- Poslovi main -->
+                <div class="s-footer-poslovi-main">
+                    <!-- Poslovi usluge -->
+                    <ul>
+
+                        <li class="s-footer-list-col">
+                            <ul>
+                                <li class="s-footer-title">Pronađite posao</li>
+                                <li><a href="/oglasi-za-posao" onclick="ga('send', 'event', 'footer', 'click', 'Pretraga poslova');">Pretraga poslova</a></li>
+                                <li><a id="gtm_pnm_prijava_footer" href="/moj-profil/poslovi-na-e-mail">Poslovi na email</a></li>
+                                <li><a href="/profili-poslodavaca" onclick="ga('send', 'event', 'footer', 'click', 'Upoznajte poslodavce');">Upoznajte poslodavce</a></li>
+                                <li><a href="/dok-trazite-posao" onclick="ga('send', 'event', 'footer', 'click', 'Dok tražite posao');">Dok tražite posao</a></li>
+                            </ul>
+                        </li>
+
+                                                                        <li class="s-footer-list-col">
+                            <ul>
+                                <li class="s-footer-title">Za medije</li>
+                                <li><a href="/za-medije/kategorija/saopstenja" onclick="ga('send', 'event', 'za-medije', 'click', 'footer-saopstenja');">Saopštenja</a></li>
+                                <li><a href="/za-medije/kategorija/istrazivanja" onclick="ga('send', 'event', 'za-medije', 'click', 'footer-istrazivanja');">Istraživanja</a></li>
+                                <li><a href="/za-medije/kategorija/ankete" onclick="ga('send', 'event', 'za-medije', 'click', 'footer-anketa');">Ankete</a></li>
+                                <li><a href="/docs/trazena-zanimanja-zaposljavanje-2019.png" target="_blank" onclick="ga('send', 'event', 'Tražena zanimanja u 2019. godini na sajtu poslovi.infostud.com', 'click', 'Footer - undp-report');">Tražena zanimanja u 2019. godini</a></li>
+                            </ul>
+                        </li>
+                        <li class="s-footer-list-col">
+                            <ul class="s-footer-list-separator">
+                                <li class="s-footer-title">Za poslodavce</li>
+                                <li><a href="/poslodavci/formular-za-placeni-oglas" onclick="ga('send', 'event', 'footer', 'click', 'Objavite oglas');">Objavite oglas</a></li>
+                                <li><a href="/en/poslodavci/formular-za-placeni-oglas" onclick="ga('send', 'event', 'footer', 'click', 'Post a job');">Post a job</a></li>
+                                <li><a href="/poslodavci/eb-studio" onclick="ga('send', 'event', 'footer',
+                                'click', 'eb studio');">Employer branding studio</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!-- Poslovi linkovi -->
+                    <ul class="s-footer-poslovi-main-link-button-list s-footer-list-separator-long">
+                        <li class="s-footer-link-button"><a href="/blog" onclick="ga('send', 'event', 'O nama', 'click', 'Footer - undp-report');">Blog</a></li>
+                        <li class="s-footer-link-button"><a href="/o-nama" onclick="ga('send', 'event', 'O nama', 'click', 'Footer - undp-report');">O nama</a></li>
+                        <li class="s-footer-link-button"><a href="/faq" onclick="ga('send', 'event', 'Česta pitanja', 'click', 'Footer - undp-report');">Česta pitanja</a></li>
+                        <li class="s-footer-link-button"><a href="/kontakt" onclick="ga('send', 'event', 'Kontaktirajte nas', 'click', 'Footer - undp-report');">Kontaktirajte nas</a></li>
+                        <li class="s-footer-link-button"><a href="/rss" onclick="ga('send', 'event', 'RSS', 'click', 'Footer - undp-report');">RSS</a></li>
+                        <li><a class="s-footer-link-button" href="/privatnost-uslovi" onclick="ga('send', 'event', 'Uslovi Korišćenja', 'click', 'Footer - undp-report');">Uslovi korišćenja</a></li>
+                        <li><a class="s-footer-link-button" href="/privatnost-uslovi#obavestenje-o-privatnosti-podataka-o-licnosti" onclick="ga('send', 'event', 'Obaveštenje o privatnosti', 'click', 'Footer - undp-report');">Obaveštenje o privatnosti</a></li>
+                    </ul>
+                </div>
+
+
+                <!-- Poslovi aside -->
+                <div class="s-footer-poslovi-aside">
+
+                    <!-- Društvene mreže -->
+                    <ul class="s-footer-poslovi-aside-social">
+                        <li>
+                            <a href="https://www.facebook.com/poslovi" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Facebook');">
+                               <i class="la la-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/poslovi_infostud/" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Instagram');">
+                                <i class="la la-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCoDykSGViuDmOTgcBpgIqwA" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Youtube');">
+                                <i class="la la-youtube"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/PosloviInfostud" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Twitter');">
+                                <i class="la la-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/poslovi-infostud" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Linkedin');">
+                                <i class="la la-linkedin"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=com.infostud.poslovi&hl=en&referrer=utm_source%3Dposlovi.infostud.com%26utm_medium%3Dreferral%26utm_campaign%3Dfooter_pzp" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Google Play');">
+                                <img width="100" src="https://play.google.com/intl/en_us/badges/images/generic/sr_badge_web_generic.png" alt="Poslovi Android aplikacija" style="margin-top:-12px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://appgallery.cloud.huawei.com/ag/n/app/C101338177?channelId=EURSMKT20200525MT&detailType=0" target="_blank"
+                               onclick="ga('send', 'event', 'footer', 'click', 'Huawei app store');">
+                                <img width="84" src="/public/img/poslovi-infostud-huawei-app-store-aplikacija.png" alt="Poslovi Huawei aplikacija" style="margin-top:-12px">
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- Poslovi logo -->
+                    <a href="/" class="s-footer-poslovi-logo" onclick="ga('send', 'event', 'footer', 'click', 'logo');"><img src="/img/logo/default/poslovi.svg" alt="Poslovi.infostud.com logo"></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Infostud -->
+        <div class="s-footer-infostud" id="__footer">
+            <div class="s-footer-infostud-maxwidth">
+
+                <!-- Infostud logo -->
+                <a href="https://www.infostud.com" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'infostud-grupa-logo');"><img src="/img/logo/default/infostud-grupa.svg" alt="Infostud logo" class="s-footer-infostud-logo"></a>
+
+                <!-- Infostud main -->
+                <div class="s-footer-infostud-main">
+
+                    <ul class="s-ml0 s-line-height-1 s-list-reset s-list-reset s-sm-hide s-xs-hide s-flex s-flex-wrap s-items-center logo-list">
+                        <li>
+                            <a href="https://najstudent.com" target="_blank" onclick="ga('send', 'event', 'najstudent.com', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/najstudent.svg" alt="Najstudent logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://poslovi.infostud.com" target="_blank" onclick="ga('send', 'event', 'poslovi.infostud.com', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/poslovi.svg" alt="Poslovi Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.helloworld.rs" target="_blank" onclick="ga('send', 'event', 'helloworld.rs', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/helloworld.svg" alt="Hello World Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://polovniautomobili.com" target="_blank" onclick="ga('send', 'event', 'polovniautomobili.com', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/polovni.svg" alt="Polovni automobili Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://internet-prodaja-guma.com" target="_blank" onclick="ga('send', 'event', 'internet-prodaja-guma.com', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/ipg.svg" alt="Internet prodaja guma Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://mojagaraza.rs" target="_blank" onclick="ga('send', 'event', 'mojagaraza.rs', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/mojagaraza.svg" alt="Moja garaža Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.4zida.rs" target="_blank" onclick="ga('send', 'event', '4zida.rs', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/4zida.svg" alt="4zida Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://osiguranik.com" target="_blank" onclick="ga('send', 'event', 'osiguranik.com', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/osiguranik.svg" alt="Osiguranik Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.hrlab.rs" target="_blank" onclick="ga('send', 'event', 'employers-footer', 'click', 'Footer - undp-report');">
+                                <div class="logo-wrapper">
+                                    <img src="/img/logo/white/hrlab.svg" alt="HRLab Infostud logo">
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+
+
+                    <span>© <a href="https://www.infostud.com" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-infostud');">Infostud 3 d.o.o.</a>, 2000 - 2020. Sadržaj sajta <a href="https://poslovi.infostud.com" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-poslovi');">Poslovi.infostud.com</a> je vlasništvo <a href="https://www.infostud.com/" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-infostud-2');">Infostuda</a>. Zabranjeno je njegovo preuzimanje bez dozvole <a href="https://www.infostud.com/" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-infostud-3');">Infostuda</a>, zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. <a href="/privatnost-uslovi#uslovi-koriscenja" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-uslovi-koriscenja');">Uslovi korišćenja.</a></span>
+                    <span>Infostud je deo <a href="http://www.almamedia.com/" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-alma');">ALMA</a> grupacije:  <a href="http://moj-posao.net" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-moj-posao');">moj-posao.net</a> / <a href="https://www.mojposao.ba/" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-posaoba');">mojposao.ba</a> / <a href="http://profesia.sk" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-profesiask');">profesia.sk</a> / <a href="http://profesia.cz" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-profesiaca');">profesia.cz</a> / <a href="http://workania.hu" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-wrokania');">workania.hu</a> / <a href="http://monster.fi" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-monster');">monster.fi</a> / <a href="http://monster.cz" target="_blank">monster.cz</a> / <a href="http://jobs.cz" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-jobscz');">jobs.cz</a> / <a href="http://prace.cz" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-pracecz');">prace.cz</a> / <a href="http://cv.ee" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-cvee');">cv.ee</a> / <a href="http://cvonline.lt" target="_blank" onclick="ga('send', 'event', 'footer', 'click', 'copyright-recenica-cvonline');">cvonline.lt</a> / <a href="http://cv.lv" target="_blank">cv.lv</a></span>
+                </div>
+
+                <!-- SOIS logo -->
+                            </div>
+        </div>
+    </div>
+
+
+
+
+    <script type="text/javascript" src="//rs.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2017 */
+        var master_id;
+        if(global.is_mobile) {
+            master_id = 'hf7svcOcLTfgOKPjPRSQq9Pgf4fC529Y2R3Xneo5d8T.m7';
+        } else {
+            master_id = 'T6NKCTja8xLtssfgpv6wn2cXwy7A49Hz9wxZMihTxKv.V7';
+        }
+        var keys = [];
+                if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+        ado.config({mode: "new", xml: false, characterEncoding: true});
+        ado.preview({enabled: true, emiter: "si.adocean.pl", id: "Mr1Rsue7H.rad6w_4ZHJvEJGwBl.iSL6B.8jEytU5tj.c7"});
+        ado.master({id: master_id, server: 'si.adocean.pl', keys: keys });
+    </script>
+
+    <script>
+        /* Load individual zones that are on current page, if there are any*/
+        $(window).load(function () {
+                $('.__adocean-banner-zone').each(function () {
+                    var zone_id = $(this).data('zone-id');
+                    init_banner_by_zone_id(zone_id, master_id);
+                    });
+        });
+
+    </script>
+
+
+<!--Modal containers-->
+<div id="modal-container-layout-forced"></div>
+<div id="modal-container-layout"></div>
+<div id="modal-container-layout-accounts"></div>
+<script type="text/javascript">
+    global.generic_modal_forced_id = '#modal-container-layout-forced';
+    global.generic_modal_forced = UIkit.modal(global.generic_modal_forced_id, {escClose: false, bgClose:false});
+    global.generic_modal_id = '#modal-container-layout';
+    global.generic_modal = UIkit.modal(global.generic_modal_id);
+    global.accounts_modal_id = '#modal-container-layout-accounts';
+    global.accounts_modal = UIkit.modal(global.accounts_modal_id);
+</script>
+
+
+<!-- no flash_message -->
+
+    <!-- no flash modal -->
+
+
+
+
+    <!-- no silent flash modal -->
+
+<div class="overlay"></div>
+<span id="__close_overlay" class="close_overlay las la-times" style="display:none;"></span>
+</body>
+</html>
